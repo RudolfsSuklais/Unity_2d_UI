@@ -9,8 +9,8 @@ Unity 2D projekts, kas demonstrē UI lietojumu
 - [x] Panel un Toggle Group elementu lietujums
 - [x] DropDow un Slider elementu lietojums
 - [x] AudioSource un ScrollView elementu lietojums
-- [ ] Jaunas ainas ieviešana
-- [ ] Rigidbody un Collider komponenšu 
+- [x] Jaunas ainas ieviešana
+- [x] Rigidbody un Collider komponenšu 
 - [ ] Jiggly mājas
 - [ ] Sagatavošana Windows platformai
 
